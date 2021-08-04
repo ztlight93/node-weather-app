@@ -5,8 +5,6 @@ fetch('http://puzzle.mead.io/puzzle').then((res) => {
 
 })
 
-
-
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
 const messageOne = document.querySelector('#p1')
